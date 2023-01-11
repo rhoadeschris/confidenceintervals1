@@ -1,0 +1,4 @@
+(function(){var loadHandler=window['sl_{B1F0B194-3E3C-47EC-9B33-18815DD9A65E}'];loadHandler&&loadHandler(2, '<div id="spr0_2d927b2"><div id="spr1_2d927b2" class="kern slide"><img id="img1_2d927b2" src="data/img0.png" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_2d927b2" class="kern slide"><div id="spr3_2d927b2" style="left:88px;top:38.333px;"><div style="width:0px;"><span id="txt0_2d927b2" data-width="244.377609" style="left:9.6px;top:24.307px;">Key Terms</span></div></div><div id="spr4_2d927b2" style="left:98.25px;top:198.75px;"><img id="img0_2d927b2" src="data/img1.png" width="1071" height="405.75" alt="Point Estimate – A single unbiased numeric value that approximates a population parameter. Sample mean ( 𝒙 ) is a point estimate of population mean (µ)\
+\
+A Confidence Interval is – An interval of plausible values for a parameter (µ) based on sample data\
+"/></div></div></div>', '{"s":[]}');})();
